@@ -1,10 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Main function:
-- Use State to control each variable
+- Use State to control each variable\
   ・(Input data)description, quantity\
   ・(Store data)item\
-  ・(Analyze data)sortBy\
+  ・(Analyze data)sortBy
 
 ### `npm run start`
 
