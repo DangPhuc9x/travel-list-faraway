@@ -2,9 +2,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Main function:
 - Use State to control each variable
-  ・(Input data)description, quantity
-  ・(Store data)item
-  ・(Analyze data)sortBy
+  ・(Input data)description, quantity\
+  ・(Store data)item\
+  ・(Analyze data)sortBy\
 
 ### `npm run start`
 
